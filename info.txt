@@ -1,0 +1,7 @@
+1000,Mohamed,Omer,12/15/2005,Male,Sudanese
+1001, Ahmed, Salmi, 11/10/2001,Male , Egyptian
+1002,Mamoon,Rook,11/01/1992,Male,Qatari
+1003, Firas, Nazar, 10/01/1978, Male, Saudi
+21902204,abdyafga,sdwa,12/2/2002,other,sudan
+1009,Ahmed,Mohamed,12/10/2000,Male,sudanese
+1994, aghah,ahhaf,10/14/2002,Male,sudan
